@@ -5,3 +5,6 @@ Make a change
 
 
 http://www.syntevo.com/smartgit/download?file=smartgit/smartgit-generic-7_0_2.tar.gz
+
+
+changes in web repo
